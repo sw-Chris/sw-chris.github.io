@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Chris",
+    "objectID": "posts/first-weeks/index.html",
+    "href": "posts/first-weeks/index.html",
+    "title": "My first weeks in MDS",
     "section": "",
-    "text": "I am currently a student in the UBC Master of Data Science program. Before MDS, I studied Statistics at the University of Ottawa. Through the MDS program, I hope to connect the mathematical theory I learned as an undergraduate with computer science and practical applications. Outside of academics, I enjoy soccer, basketball, and esports, and I also look forward to meeting new people and broadening my perspectives through the program."
+    "text": "My first few weeks in the UBC Master of Data Science program have been busy but exciting. Orientation gave me a chance to learn more about the program, meet classmates, and get familiar with the campus. Starting a new program in a new environment also made the first few days feel very different from my undergraduate experience.\n\n\n\nWonderful memory.\n\n\nThe first week of classes showed me that the MDS program moves quickly and focuses strongly on practical work. I have already been using tools such as Git, GitHub, R, Python, and Quarto in different courses. One thing that surprised me was how much emphasis the program places on learning through hands-on assignments and working with tools that are commonly used in real data science workflows.\nSo far, I am enjoying the experience and gradually getting used to the pace of the program. I hope to improve both my technical skills and my ability to apply what I learn to practical problems. I am also looking forward to getting to know more people in the program and experiencing more of what MDS has to offer."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 9, 2026\n\n\nChris\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -33,5 +40,12 @@
     "title": "About",
     "section": "Outside of Data Science",
     "text": "Outside of Data Science\nOutside of academics, I enjoy soccer, basketball, and esports. Sports and gaming are some of the main ways I relax in my free time. I also enjoy meeting new people, exploring new places, and learning from people with different backgrounds and experiences."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chris",
+    "section": "",
+    "text": "I am currently a student in the UBC Master of Data Science program. Before MDS, I studied Statistics at the University of Ottawa. Through the MDS program, I hope to connect the mathematical theory I learned as an undergraduate with computer science and practical applications. Outside of academics, I enjoy soccer, basketball, and esports, and I also look forward to meeting new people and broadening my perspectives through the program."
   }
 ]
